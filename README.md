@@ -6,7 +6,6 @@
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building projects to improve my skills and learn new stuff.
 
-- 🎓 I’m currently a Computer science student at Supmit.
 - 📚 I’m currently learning Spring and React .
 - 🛠 Tech Stack
   - Java , JavaEE
