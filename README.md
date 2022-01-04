@@ -16,4 +16,4 @@ I'm a computer science student who is passionate about writing code, solving pro
   - C , C++, C#
   - Git , Linux
 - 💪🏼 Future Goals: Learn more technologies like Angular ,TypeScript, Vuejs, docker
-- 🤝🏻 How to reach me: [Linkedin](https://www.linkedin.com/in/ben-youness-bahi-001a821b5/) [Gmail](mailto:ben.youness.bahi@gmail.com)
+- 🤝🏻 How to reach me:  [Gmail](mailto:ben.youness.bahi@gmail.com)
